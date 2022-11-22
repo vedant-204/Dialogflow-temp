@@ -25,7 +25,7 @@ use rawn json as :
 
 ```
 {
-  "queryText": "<you query>"
+  "queryText": "<your query>"
   "sessionId": "<specified session id>"
   "languageCode": "<your language code>"
 }
